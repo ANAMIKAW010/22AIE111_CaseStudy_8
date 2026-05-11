@@ -17,8 +17,10 @@ Open terminal/command prompt.
 Compile the program
 
 #Sample Input / Output
-<img width="958" height="726" alt="image" src="https://github.com/user-attachments/assets/d05b4fa5-98bf-4a4a-a1de-aee0ab63331a" />
-<img width="893" height="159" alt="image" src="https://github.com/user-attachments/assets/c33d6b02-affd-45b3-b4b9-5639f397d1c3" />
+<img width="500" height="726" alt="image" src="https://github.com/user-attachments/assets/d05b4fa5-98bf-4a4a-a1de-aee0ab63331a" />
+
+
+<img width="500" height="159" alt="image" src="https://github.com/user-attachments/assets/c33d6b02-affd-45b3-b4b9-5639f397d1c3" />
 
 #Tools / Technologies Used
 Java
